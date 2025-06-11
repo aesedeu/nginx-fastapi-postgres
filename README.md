@@ -30,7 +30,7 @@ A scalable web application built with FastAPI, PostgreSQL, and Nginx load balanc
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd pt_nginx_postgres_fastapi
+cd nginx_postgres_fastapi
 ```
 
 2. Start the services:
